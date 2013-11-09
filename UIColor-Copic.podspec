@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.author       = { "Mihaela Mihaljevic Jakic" => "mihaelamj@me.com" }
 
   s.platform     = :ios, '5.0'
-  s.source       = { :git => "https://github.com/mihaelamj/uicolor-copic.git", :commit => "4e7178ee66f0dfcca7a4cf22305a940f0b6d37e1" }
+  s.source       = { :git => "https://github.com/mihaelamj/uicolor-copic.git", :tag => "1.0.0" }
 
   s.source_files  = 'code', 'code/**/*.{h,m}'
 
