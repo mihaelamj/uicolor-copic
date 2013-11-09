@@ -1,6 +1,5 @@
 UIColor+Copic
 ======================
-# UIColor+Copic 
 UIColor category for Copic markers.
 
 * Color codes source: http://blog.paigeedraw.com/2012/07/copic-marker-color-rgb-hex-conversion.html
